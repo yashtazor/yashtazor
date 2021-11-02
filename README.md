@@ -1,6 +1,6 @@
-<h1 align = "center"> Hey there! </h1>
-
 ![Untitled](https://user-images.githubusercontent.com/42903859/139831283-9d0e0c59-4190-48bb-9b37-6c0a662ffe1d.gif)
+
+<h1 align = "center"> Hey, I'm Yash! 👋 </h1>
 
 <!--
 **yashtazor/yashtazor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
