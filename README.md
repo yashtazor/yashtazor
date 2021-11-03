@@ -1,8 +1,15 @@
-# Hey, I'm Yash! 👋
+<h1 align = "center"> Hey, I'm Yash! 👋 </h1>
 
 ![Untitled](https://user-images.githubusercontent.com/42903859/139831283-9d0e0c59-4190-48bb-9b37-6c0a662ffe1d.gif)
 
-I'm a final year Computer Science and Engineering student at Vellore Institute of Technology who is mainly interested in Full-Stack Development and Machine Learning. However, I occasionally work on some dumb and unique stuff as well!
+<p align = "center"> I'm a final year Computer Science and Engineering student at Vellore Institute of Technology who is mainly interested in Full-Stack Development and Machine Learning. However, I occasionally work on some unique stuff as well! </p>
+
+#
+
+### My GitHub Statistics
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashtazor&show_icons=true&theme=prussian) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashtazor&theme=prussian)](https://git.io/streak-stats) |
+| - | - |
 
 ### Languages & Tools
 
@@ -26,15 +33,19 @@ I'm a final year Computer Science and Engineering student at Vellore Institute o
 | ![icons8-anaconda-70](https://user-images.githubusercontent.com/42903859/140019897-508422a2-10b2-435b-a05a-44f6a79d0669.png) <br> Anaconda | <img src="https://user-images.githubusercontent.com/42903859/140020257-01cb32c6-b28a-43f0-bb80-7eb9255f13d0.png" width="70" height="70"> <br> LLVM |
 | - | - |
 
-#### Operating System
+# 
 
-| ![icons8-windows-10-70](https://user-images.githubusercontent.com/42903859/140020705-d5cafc79-5a46-44af-a01a-88b98365c7f2.png) <br> Windows | ![icons8-linux-70](https://user-images.githubusercontent.com/42903859/140020743-8e8cb71e-8b47-4057-911b-becea8762471.png) <br> Linux |
-| - | - |
+<p align="center">  
+  <b>If you have a dumb idea, hit me up lol! </b> <br>
 
-#### Version Control System
+<a href="https://www.linkedin.com/in/yashdekate/" rel="nofollow">
+  <img align="center" alt="Yash Dekate | Linkedin" src="https://user-images.githubusercontent.com/42903859/140030833-39611b4e-8cb7-4447-a686-07425403eff4.png">
+</a> &nbsp;&nbsp;
 
-| ![icons8-git-70](https://user-images.githubusercontent.com/42903859/140020854-3400e3ac-9bab-4f81-8a65-615dbda01104.png) <br> Git | ![icons8-github-70](https://user-images.githubusercontent.com/42903859/140020894-a0a74176-1471-46ad-b121-3c5a287144f5.png) <br> GitHub |
-|- | - |
+<a href="https://discordapp.com/users/438362490527547412/" rel="nofollow">
+  <img align="center" alt="Yash Dekate | Discord" src="https://user-images.githubusercontent.com/42903859/140030844-710e1587-7b55-404a-8a53-78ec8d43e2d1.png">
+</a> &nbsp;&nbsp;
+</p>
 
 <!--
 **yashtazor/yashtazor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
